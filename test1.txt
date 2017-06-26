@@ -1,4 +1,0 @@
-test1 first line.
-second line
-THIRD LINE
-FOURTH LINE
